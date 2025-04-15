@@ -9,9 +9,12 @@ Project: ENPM662 Introduction to Modelling
 
 ## Contributors:
 * Hamsaavarthan Ravichandar
+* Robens Midy Cyprien
+* Kent-Diens Joseph
+* Jonathan Leonard Crespo
 
 
-## GENERAL SETUP
+## General Setup
 -Verify you have ROS2 galatic distribution installed and also CMAKE necessary installations. Refer to: https://docs.ros.org/en/galactic/Installation/Ubuntu-Install-Debians.html
 On command line run:
 ```sh
@@ -205,7 +208,7 @@ ros2 run project1_pkg teleop.py
 
 You should now be able to control the robot around the track with W, A, S, D
 
-# Video links
+# Links
 ## Teleoperation demo
 https://drive.google.com/file/d/1amAvnNG7gteSBgnBY4UivcKHt8HglslF/view?usp=sharing
 ## Autonomous mode demo
