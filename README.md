@@ -1,7 +1,7 @@
 # Build Truck & Trailer CAD (Solidworks) Modelling and ROS2 Gazebo Simulation
 Project: ENPM662 Introduction to Modelling
 
-![Truck and Trailer Control](https://github.com/user-attachments/assets/6f86a237-87d5-42a3-954f-32c7ab3dd9ce)
+![Truck and Trailer Control](https://github.com/user-attachments/assets/e4431998-dcbe-4ebd-81cc-0931feefada4)
 
 
 * Custom build your own Truck and Trailer model using Solidworks CAD Software
