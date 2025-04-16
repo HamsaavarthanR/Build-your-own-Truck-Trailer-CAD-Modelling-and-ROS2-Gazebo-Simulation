@@ -10,7 +10,7 @@ Project: ENPM662 Introduction to Modelling
 * Deploy RWD motion control
 * Perform closed-loop feed back control
 
-## Contributors:
+## Contributors
 * Hamsaavarthan Ravichandar
 * Robens Midy Cyprien
 * Kent-Diens Joseph
